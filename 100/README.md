@@ -37,7 +37,3 @@ Publication editors can write and send custom email newsletters to the publicati
 Publications have a detailed stats page that allows publication editors to easily check how all the submitted stories are performing.
 
 - URL in the format: medium.com/your-publication-name
-
-### Who can create a Medium publication?
-
-You must have a Medium account with an active membership subscription in order to create a Medium publication. [Learn more about becoming a Medium member](https://help.medium.com/hc/en-us/articles/115004545567).
