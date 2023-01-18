@@ -18,9 +18,9 @@
 
 *Publication avatar*: See ![Avatar](https://user-images.githubusercontent.com/1499433/213202361-dee00848-8d2d-4e44-aaa7-8b904b3e52d9.png)
 
-*Publication logo*: See 
+*Publication logo*: See ![Logo](https://user-images.githubusercontent.com/1499433/213202550-3c59d327-90b4-4302-a9b4-e7bd1a6d8a7b.png)
 
-*Publication cover image*: See
+*Publication cover image*: See ![Background](https://user-images.githubusercontent.com/1499433/213202683-6639013a-79bb-406b-9e84-cb073e39b5a0.png)
 
 4. Additionally, you can:
 - Add a logo that appears at the top of all posts in the publication.
