@@ -9,6 +9,7 @@
 3. Enter your publication's name, description, and upload your publication avatar. These steps are required to create a publication.
 
 **General**
+___
 
 *Name*: ACT I
 
@@ -21,6 +22,33 @@
 *Publication logo*: See ![Logo](https://user-images.githubusercontent.com/1499433/213202550-3c59d327-90b4-4302-a9b4-e7bd1a6d8a7b.png)
 
 *Publication cover image*: See ![Background](https://user-images.githubusercontent.com/1499433/213202683-6639013a-79bb-406b-9e84-cb073e39b5a0.png)
+___
+
+*Name*: ACT II
+
+*Tagline*: The Middle
+
+*Description*: The Middle
+
+*Publication avatar*: See ![Avatar](https://user-images.githubusercontent.com/1499433/213202361-dee00848-8d2d-4e44-aaa7-8b904b3e52d9.png)
+
+*Publication logo*: See ![Logo](https://user-images.githubusercontent.com/1499433/213202550-3c59d327-90b4-4302-a9b4-e7bd1a6d8a7b.png)
+
+*Publication cover image*: See ![Background](https://user-images.githubusercontent.com/1499433/213202683-6639013a-79bb-406b-9e84-cb073e39b5a0.png)
+___
+
+*Name*: ACT III
+
+*Tagline*: The End
+
+*Description*: The End
+
+*Publication avatar*: See ![Avatar](https://user-images.githubusercontent.com/1499433/213202361-dee00848-8d2d-4e44-aaa7-8b904b3e52d9.png)
+
+*Publication logo*: See ![Logo](https://user-images.githubusercontent.com/1499433/213202550-3c59d327-90b4-4302-a9b4-e7bd1a6d8a7b.png)
+
+*Publication cover image*: See ![Background](https://user-images.githubusercontent.com/1499433/213202683-6639013a-79bb-406b-9e84-cb073e39b5a0.png)
+___
 
 4. Additionally, you can:
 - Add a logo that appears at the top of all posts in the publication.
@@ -31,4 +59,8 @@
 
 5. Click **Next** in the lower right corner to go to the publication layout screen. Under the Homepage screen, you customize your publication's homepage.
 
-6. Click **Create** to create your publication. See [ACT I](https://medium.com/act-i)
+6. Click **Create** to create your publication. 
+ 
+- See [ACT I](https://medium.com/act-i)
+- See [ACT II](https://medium.com/act-ii)
+- See [ACT III](https://medium.com/act-iii)
