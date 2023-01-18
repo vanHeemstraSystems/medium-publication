@@ -31,4 +31,4 @@
 
 5. Click **Next** in the lower right corner to go to the publication layout screen. Under the Homepage screen, you customize your publication's homepage.
 
-6. Click **Create** to create your publication. See [ACT I]([https://medium.com/act-i)
+6. Click **Create** to create your publication. See [ACT I](https://medium.com/act-i)
