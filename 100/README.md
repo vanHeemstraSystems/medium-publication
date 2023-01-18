@@ -25,8 +25,8 @@ Each publication has their own customizable publication homepage, where publicat
 
 Each publication is owned by a single user account—the publication's owner. The owner account has full rights to manage the publication and can add other users as publication editors and writers.
 
--- Editors can review, edit and publish or reject stories submitted by writers, as well as add their own stories, modify the publication's layout, and add or remove publication writers.
--- Writers are regular contributors who can submit their stories to the publication.
+- - Editors can review, edit and publish or reject stories submitted by writers, as well as add their own stories, modify the publication's layout, and add or remove publication writers.
+- - Writers are regular contributors who can submit their stories to the publication.
 
 - Newsletter system
 
