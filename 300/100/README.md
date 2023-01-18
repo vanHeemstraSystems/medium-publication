@@ -2,9 +2,9 @@
 
 ## Desktop
 
-1. On your homepage, click on   your profile picture and choose Manage publications from the menu.
+1. On your homepage, click on **your profile picture** and choose **Manage publications** from the menu.
 
-2. Click New publication.
+2. Click **New publication**.
 
 3. Enter your publication's name, description, and upload your publication avatar. These steps are required to create a publication.
 
@@ -15,6 +15,6 @@
 - Add topics.
 - Add editors and writers to your publication.
 
-5. Click Next in the lower right corner to go to the publication layout screen. Under the Homepage screen, you customize your publication's homepage.
+5. Click **Next** in the lower right corner to go to the publication layout screen. Under the Homepage screen, you customize your publication's homepage.
 
-6. Click Create to create your publication. 
+6. Click **Create** to create your publication. 
