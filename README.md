@@ -16,9 +16,10 @@ Based on "Getting started with a Medium publication" at https://help.medium.com/
 
 ### 200 - Step 2: Customize your publication layout
 
+### 300 - Step 3: Add publication editors and writers
 
+### 400 - Step 4: Submit stories to the publication
 
-
-
+### 500 - Common questions
 
 ## 400 - Conclusion
