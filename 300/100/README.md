@@ -16,7 +16,7 @@
 
 *Description*: The Beginning
 
-*Publication avatar*: See 
+*Publication avatar*: See ![Avatar](https://user-images.githubusercontent.com/1499433/213202361-dee00848-8d2d-4e44-aaa7-8b904b3e52d9.png)
 
 *Publication logo*: See 
 
