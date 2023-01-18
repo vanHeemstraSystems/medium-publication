@@ -8,6 +8,20 @@
 
 3. Enter your publication's name, description, and upload your publication avatar. These steps are required to create a publication.
 
+**General**
+
+*Name*: ACT I
+
+*Tagline*: The Beginning
+
+*Description*: The Beginning
+
+*Publication avatar*: See 
+
+*Publication logo*: See 
+
+*Publication cover image*: See
+
 4. Additionally, you can:
 - Add a logo that appears at the top of all posts in the publication.
 - Add contact information.
