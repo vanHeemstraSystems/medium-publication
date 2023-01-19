@@ -4,6 +4,8 @@ medium-publication
 
 Based on "Getting started with a Medium publication" at https://help.medium.com/hc/en-us/articles/115004681607-Getting-started-with-a-Medium-publication
 
+See also "medium-to-ascii-doc-publication" at https://github.com/vanHeemstraSystems/medium-to-ascii-doc-publication
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
